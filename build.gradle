@@ -26,4 +26,4 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 new line added for testing
-next line added for testing
+next line 
